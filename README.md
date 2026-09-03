@@ -92,7 +92,7 @@ python capm_analysis.py
 
 ## Tech Stack
 
-Python 3.13 · pandas / numpy · statsmodels (OLS) · matplotlib · Tencent Finance public API
+Python 3 · pandas / numpy · statsmodels (OLS) · matplotlib · Tencent Finance public API
 
 ## Limitations
 
